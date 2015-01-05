@@ -116,7 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:005011_0001_100E5F58F34974A0" rendition="simple:additions"/>
+            <pb facs="unknown:005011_0001_100E5F58F34974A0"
+                rendition="simple:additions"/>
             <head>To the REVEREND Mr. <hi>James Davenport</hi> on his Departure from <hi>Boſton,</hi> By Way of a DREAM: With a Line to the <hi>Scoffers</hi> at Religion; who make an ill Improvement of his naming out our worthy Miniſters.
 To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
             </head>
@@ -131,7 +132,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                <l>Hence giddy Youth a woſul Licence take;</l>
                <l>A monk at reverend heary Heads they make,</l>
                <l>
-                  <pb n="2" facs="tcp:005011_0002_100E5F5F58DC74C8"/>Deſpiſe the bleſt Inſtructions of their Tongue,</l>
+                  <pb n="2" facs="unknown:005011_0002_100E5F5F58DC74C8"/>Deſpiſe the bleſt Inſtructions of their Tongue,</l>
                <l>Converſion is become the Drunkard's Song;</l>
                <l>GOD's glorious Work, which ſweetly did ariſe,</l>
                <l>By this unguarded ſad Imprudence dies;</l>
@@ -171,7 +172,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                <l>'Let Charity uncloſe thy drowſy Eyes;</l>
                <l>'You'l ſee a Train of faithful Paſtors riſe,</l>
                <l>
-                  <pb n="3" facs="tcp:005011_0003_100E5F60DDB7DD48"/>'Thouſands of happy Souls ſurround their Feet,</l>
+                  <pb n="3" facs="unknown:005011_0003_100E5F60DDB7DD48"/>'Thouſands of happy Souls ſurround their Feet,</l>
                <l>'Which you in Realms of Glory ſoon ſhall meet;</l>
                <l>'The timorous Chriſtian to his great Surprize,</l>
                <l>'Sees himſelf there, tho' he himſelf deſpis'd;</l>
@@ -212,7 +213,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                <l>'Forgive my Guilt, I'll cenſure ſo no more,</l>
                <l>'Thy Pardon on my Knees I here implore;</l>
                <l>
-                  <pb n="4" facs="tcp:005011_0004_100E5F64B96ECA10"/>'Unite the Churches I have raſhly rent,</l>
+                  <pb n="4" facs="unknown:005011_0004_100E5F64B96ECA10"/>'Unite the Churches I have raſhly rent,</l>
                <l>'To heal the Breaches O let ſome be ſent;</l>
                <l>'My Error in my Mind I ever keep,</l>
                <l>'Unhappy Shepherd thus to ſcatter Sheep;</l>
@@ -255,7 +256,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                      <desc>〈◊〉</desc>
                   </gap> drink the deadly Poiſon in;</l>
                <l>
-                  <pb n="5" facs="tcp:005011_0005_100E5F6735B75F90"/>Pleas'd with the fancy'd Freedom of their Will,</l>
+                  <pb n="5" facs="unknown:005011_0005_100E5F6735B75F90"/>Pleas'd with the fancy'd Freedom of their Will,</l>
                <l>They ſeek their crying Conſcience to ſtill;</l>
                <l>Nor can they bear dear Nature to deface,</l>
                <l>Pride will not Beggar be to ſov'reign Grace;</l>
@@ -291,7 +292,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                <l>Now let the Scoffers at the Word of GOD,</l>
                <l>Tremble, for <hi>Gabriel</hi> brandiſhes his Sword;</l>
                <l>
-                  <pb n="6" facs="tcp:005011_0006_100E5F68B9460878"/>Your raging Hearts ſhall feel the burning Steel,</l>
+                  <pb n="6" facs="unknown:005011_0006_100E5F68B9460878"/>Your raging Hearts ſhall feel the burning Steel,</l>
                <l>And GOD his Terrors in your Soul reveal;</l>
                <l>Think not the Frailties of a Man forgiv'n,</l>
                <l>Gives you a Licence thus to ſtorm at Heav'n;</l>
@@ -350,7 +351,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                      <desc>•</desc>
                   </gap>hile they diſp'ay thy Counſels and Commands</l>
                <l>
-                  <pb n="7" facs="tcp:005011_0007_100E5F6B41DAAF88"/>O! Grant the Promiſe thy bleſt Word has giv'n,</l>
+                  <pb n="7" facs="unknown:005011_0007_100E5F6B41DAAF88"/>O! Grant the Promiſe thy bleſt Word has giv'n,</l>
                <l>Let Satan fall as Lightning quick from Heav'n;</l>
                <l>His Legions fright thy Sheep with dreadful roar,</l>
                <l>Confine them down that they may riſe no more:</l>
@@ -387,7 +388,7 @@ To which is added, A Poſtcript to the Rev. Mr. <hi>A—d—w C—w—Ik</hi>
                <l>Let rougher Minds theſe hoſtile Weapons take;</l>
                <l>By Love divine hard Hearts in Pieces break.</l>
                <l>
-                  <pb n="8" facs="tcp:005011_0008_100E5F6E06410B30"/>My Soul by you it's glorious Power has felt.</l>
+                  <pb n="8" facs="unknown:005011_0008_100E5F6E06410B30"/>My Soul by you it's glorious Power has felt.</l>
                <l>My Boſom warms all my Affections melt:</l>
                <l>I ſhould not think a thouſand Winters long,</l>
                <l>While Jeſus Love ſounds ſweetly from your Tongue</l>
